@@ -1,0 +1,19 @@
+.loadingCircleContainer {
+  align-self: center;
+  // background-color: gray;
+}
+
+#loadingCircle {
+  stroke-dashoffset: 722px;
+  animation: circleAnimation 3s ease-in-out alternate infinite;
+}
+
+@keyframes circleAnimation {
+  from {
+    stroke-dasharray: 0;
+  }
+
+  to {
+    stroke-dasharray: 722px;
+  }
+}
