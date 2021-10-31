@@ -1,7 +1,5 @@
 # NLW React
 
-Github pages web app: https://pedro742k2.github.io/nlw-react/
-
 ## Description
 
 - Live chat web app built with React, WebSockets and GitHub Authentication.
@@ -13,3 +11,10 @@ Github pages web app: https://pedro742k2.github.io/nlw-react/
 - SCSS
 - socket.io (WebSocket)
 - Github authentication with GitHub OAuth and NodeJS backend server (https://github.com/pedro742k2/nlw-node)
+
+## How to use
+
+- Clone the directory
+- Inside the directory, run:
+  - `yarn install`
+  - `yarn dev` or `yarn dev --host` to expose network url
