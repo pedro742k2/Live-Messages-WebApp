@@ -1,4 +1,6 @@
-# 🚀 NLW (Next Level Week) React Web App
+# 🚀 Live Messages React Web App
+
+  - **Note:** Inspired on the NLW (Next Level Week) RocketSeat online event
 
 ## Screenshots
 
