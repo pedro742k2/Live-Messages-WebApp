@@ -27,9 +27,21 @@
 
 ## 💻 Technologies
 
-- ReactJS
-- TypeScript
-- SCSS
-- socket.io (WebSocket)
-- Prisma
-- Github authentication with GitHub OAuth and NodeJS typescript backend server (https://github.com/pedro742k2/nlw-node)
+- Frontend
+  - React
+  - TypeScript
+  - CSS / SCSS
+  - socket.io (WebSocket protocol)
+  - Axios
+
+- Backend ([Repository](https://github.com/pedro742k2/nlw-node))
+  - Node.js
+  - TypeScript
+  - Express
+  - JSON WebToken
+  - Prisma
+  - socket.io (WebSocket)
+  - Axios
+
+- Services
+  - Github OAuth
