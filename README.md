@@ -25,6 +25,11 @@
   - `yarn install`
   - `yarn dev` or `yarn dev --host` to expose network url
 
+## 🤝 Contributions and feedback
+
+  - 🛠️ If you have any suggestions, want to report an issue or give general feedback, feel free to make a pull request or email me at pedro.manuel.peres.batista@gmail.com with the suggestion or detailed description of the problem 😀.
+  - 🙌 I'll thank you for that!
+
 ## 💻 Technologies
 
 - Frontend
